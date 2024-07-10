@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\simplecrudapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:simplecrudapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|d:\\learning\\.net crud\\dotnetcore\\simplecrudapp\\simplecrudapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9DF88A3A-6D83-4279-BA74-A6E20733657E}|SimpleCrudApp.csproj|solutionrelative:simplecrudapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T09:09:29.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:06:21.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleCrudApp.csproj",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\SimpleCrudApp.csproj",
+              "RelativeDocumentMoniker": "SimpleCrudApp.csproj",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\SimpleCrudApp.csproj",
+              "RelativeToolTip": "SimpleCrudApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T09:05:12.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T08:58:00.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T08:47:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "Data\\UserContext.cs",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Data\\UserContext.cs",
+              "RelativeToolTip": "Data\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T08:44:48.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T08:33:43.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T08:33:34.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SimpleCrudApp",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\SimpleCrudApp.csproj",
+              "RelativeDocumentMoniker": "SimpleCrudApp.csproj",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\SimpleCrudApp.csproj",
+              "RelativeToolTip": "SimpleCrudApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T08:33:28.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:27:48.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T07:27:46.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "global.json",
+              "DocumentMoniker": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T07:27:37.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
