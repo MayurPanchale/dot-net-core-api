@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5zSOkIk3LZc=",
+  "dgSpecHash": "gBVO482wJiU=",
   "success": true,
-  "projectFilePath": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\SimpleCrudApp.csproj",
+  "projectFilePath": "D:\\Learning\\.NET CRUD\\DotNetCore\\dot-net-core-api\\SimpleCrudApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mayur.panchale\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Mayur.panchale\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",

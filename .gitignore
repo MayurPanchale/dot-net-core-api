@@ -1,0 +1,30 @@
+# .NET Core
+.vs/
+## Build results
+bin/
+obj/
+
+## Visual Studio files
+.vscode/
+*.sln.docstates
+
+## Rider files
+.idea/
+
+## User-specific files
+*.user
+*.suo
+*.userprefs
+*.bak
+*.DS_Store
+
+## Packages
+*.lock
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Project-specific files
+# /appsettings.json
+# /appsettings.Development.json
+# /appsettings.Production.json

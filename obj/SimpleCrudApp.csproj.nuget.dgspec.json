@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\SimpleCrudApp.csproj": {}
+    "D:\\Learning\\.NET CRUD\\DotNetCore\\dot-net-core-api\\SimpleCrudApp.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\SimpleCrudApp.csproj": {
+    "D:\\Learning\\.NET CRUD\\DotNetCore\\dot-net-core-api\\SimpleCrudApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\SimpleCrudApp.csproj",
+        "projectUniqueName": "D:\\Learning\\.NET CRUD\\DotNetCore\\dot-net-core-api\\SimpleCrudApp.csproj",
         "projectName": "SimpleCrudApp",
-        "projectPath": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\SimpleCrudApp.csproj",
+        "projectPath": "D:\\Learning\\.NET CRUD\\DotNetCore\\dot-net-core-api\\SimpleCrudApp.csproj",
         "packagesPath": "C:\\Users\\Mayur.panchale\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\.NET CRUD\\DotNetCore\\SimpleCrudApp\\obj\\",
+        "outputPath": "D:\\Learning\\.NET CRUD\\DotNetCore\\dot-net-core-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mayur.panchale\\AppData\\Roaming\\NuGet\\NuGet.Config",
