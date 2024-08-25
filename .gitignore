@@ -1,8 +1,18 @@
 # .NET Core
 .vs/
-## Build results
+# Auto-generated files and build artifacts
 bin/
 obj/
+*.log
+*.vspscc
+*.vssscc
+*.cache
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb
+*.dotCover
 
 ## Visual Studio files
 .vscode/
@@ -11,12 +21,14 @@ obj/
 ## Rider files
 .idea/
 
-## User-specific files
+# User-specific files
+.vscode/
+.vs/
+.idea/
 *.user
 *.suo
-*.userprefs
-*.bak
-*.DS_Store
+*.userosscache
+*.sln.docstates
 
 ## Packages
 *.lock

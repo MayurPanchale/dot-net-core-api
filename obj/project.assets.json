@@ -2760,19 +2760,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mayur.panchale\\.nuget\\packages\\": {}
+    "C:\\Users\\asus\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\.NET CRUD\\DotNetCore\\dot-net-core-api\\SimpleCrudApp.csproj",
+      "projectUniqueName": "D:\\DevOps\\DevOps_Projects\\DotNet\\dot-net-core-api\\SimpleCrudApp.csproj",
       "projectName": "SimpleCrudApp",
-      "projectPath": "D:\\Learning\\.NET CRUD\\DotNetCore\\dot-net-core-api\\SimpleCrudApp.csproj",
-      "packagesPath": "C:\\Users\\Mayur.panchale\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\.NET CRUD\\DotNetCore\\dot-net-core-api\\obj\\",
+      "projectPath": "D:\\DevOps\\DevOps_Projects\\DotNet\\dot-net-core-api\\SimpleCrudApp.csproj",
+      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+      "outputPath": "D:\\DevOps\\DevOps_Projects\\DotNet\\dot-net-core-api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mayur.panchale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2780,7 +2780,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2852,7 +2851,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
