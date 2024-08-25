@@ -7,7 +7,7 @@ COPY *.sln ./
 COPY SimpleCrudApp.csproj ./
 RUN dotnet restore
 
-# Copy the rest of the source code and build the application
+# Copy the rest of the source code and build the application.
 COPY . .
 RUN dotnet publish -c Release -o /app --no-restore
 
